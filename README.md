@@ -53,8 +53,9 @@
 ### <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasangiPerera&theme=tokyonight&hide_border=true&background=1a1b27&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&dates=FFFFFF" height="180" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SasangiPerera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4ECDC4&icon_color=FF6B6B" height="180" alt="GitHub Stats" />
   <br/>
 
   </div>
